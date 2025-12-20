@@ -18,7 +18,3 @@ Yang akan digunakan dalam projek ini adalah Visual Studio Code. Di dalam VSC kam
 - Arahkan ular ke makanan untuk menambah skor dan panjang tubuh
 - Hindari dinding dan tubuh ular sendiri
 - Jika menabrak maka Game Over
-
-
-# Keterangan Tambahan 
-Projek ini masih akan dilanjutkan dan dipresentasikan setelah tanggal 5 menyesuaikan waktunya
